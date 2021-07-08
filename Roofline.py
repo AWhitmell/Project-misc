@@ -7,7 +7,6 @@ import numpy
 import datetime
 from matplotlib import pyplot as plt
 
-
 flops = 123
 intensity = 0.25
 double_precision = 0.4
@@ -30,5 +29,3 @@ plt.loglog(intensity, double_precision, 'o', c='crimson', linewidth=0)
 plt.show()
 
 # Generate some accompanying text?
-
-
