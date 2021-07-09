@@ -28,4 +28,4 @@ plt.loglog(intensity, double_precision, 'o', c='crimson', linewidth=0)
 #plt.savefig(figname)
 plt.show()
 
-# Generate some accompanying text?
+# Annotate graph with regions, multiple roofs
